@@ -1,0 +1,980 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/290033649
+
+Improvement of laser to ﬁber coupling efﬁciency using microlens technique
+
+Article · January 2014
+
+CITATIONS
+2
+
+3 authors, including:
+
+Ali H. Al-Hamdani
+University of Technology, Iraq
+
+81 PUBLICATIONS   179 CITATIONS   
+
+SEE PROFILE
+
+READS
+160
+
+Hayfa G.Rahid
+College of Education ,Al-Mustansiriya University , Baghda, Iraq
+
+26 PUBLICATIONS   12 CITATIONS   
+
+SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects:
+
+Optical and Morphological Characteristics for Silicon Dioxide NPs Prepared by Sol-Gel Method View project
+
+astronomy View project
+
+All content following this page was uploaded by Ali H. Al-Hamdani on 15 September 2017.
+
+The user has requested enhancement of the downloaded file.
+
+                                        VOL. 9, NO. 11, NOVEMBER 2014                                                                                                              ISSN 1819-6608            
+
+ARPN Journal of Engineering and Applied Sciences 
+
+ 
+
+©2006-2014 Asian Research Publishing Network (ARPN). All rights reserved. 
+
+www.arpnjournals.com 
+
+ 
+
+IMPROVEMENT OF LASER TO FIBER COUPLING EFFICIENCY 
+
+USING MICROLENS TECHNIQUE 
+
+Ali H. Al-Hamdani1, Hayfa G. Rashid2 and Zainab Rashid Ghayib2 
+
+1Department of Laser and Optoelectronics Engineering, University of Technology, Iraq 
+
+2College of Education, Department of Physics, Al-Mustansiriyah University, Iraq 
+
+E-Mail: ali_alhamdani2003@yahoo.com 
+
+ 
+
+ 
+
+ 
+ABSTRACT 
+
+The efficiency of coupling between semiconductor laser LD and single-mode optical fiber SMF was increased by 
+a  microlens of  an  appropriate  focal  length  placed  between  laser  and  fiber.  ZEMAX  software  was  used  to  optimize  the 
+design of an optical system. The employed coupling system composed LD of 1.55 μm wavelength, achromatic doublet 
+microlens and single-mode fiber, thermalized over the temperature range (243-343K). Main source causing the coupling 
+loss  have  studied,  these  are  misalignment  during  adjusting  and  fixing  the  position  of  fiber  referring  to  the  axial 
+misalignment,  lateral  misalignment,  angular  misalignment  error  (tilt)  and  lateral  and  angular  misalignment  to  gather 
+.Achromatic doublet microlens of different types of glass material were selected. Significant coupling efficiency (95.5%) 
+has been obtained for N-BAK4, N-SF10 microlens of radius of curvature 7.00900, -6.67800 μm, respectively. The effect of 
+varying the field of view angle over the range (0-9o) on the coupling efficiency was taken into account. Coma, astigmatism 
+and spherical aberration were observed. Results shows that the misalignment error proves to be the predominant factor that 
+affects the coupling scheme with precise adjusting accuracy relaxed misalignment tolerances should be employed in the 
+coupling system. 
+ 
+Keywords: laser, fiber, coupling efficiency, microlens technique. 
+ 
+1. INTRODUCTION 
+
+Fundamentals,  method,  results  and  discussions 
+
+an 
+
+power 
+
+efficient 
+
+coupling 
+
+The  optical  fiber  and  fiber  sensor  are  novel 
+sensors which develop very fast during the recent decades. 
+They have been widely applied in many applications due 
+to  their  durability,  multiplexing  capabilities,  small  size, 
+wide bandth, ability to carry data in big size and electro-
+magnetic immunity [1]. Much attention is being given to 
+the  low-loss  single  mode  fiber  in  the  field  of  optical 
+communication  because  of  its  very  high  bandwidth, 
+making it a suitably long haul medium for large-capacity 
+transmission  systems  [2].  In  order  to  utilize  fully  this 
+capacity, 
+between 
+semiconductor  laser  and  single-mode  fiber  is  necessary 
+[2].  The  matching  between  characteristic  parameters  of 
+light  source  and  optical  fiber  should  be  concerned  when 
+they  are  combined  for  higher  coupling  efficiency. 
+Generally  the  characteristic  parameters  of  optical  fiber 
+include  the  core  diameter,  NA  (numerical  aperture)  and 
+cut-off  wavelength,  while  the  parameters  of  light  source 
+comprise the light-emitting area and beam divergence [1]. 
+Quantitatively  evaluating  the  impacts  of  the  factors  can 
+help  researchers  better  understand  the  contribution  of 
+every  factor  thus  they  can  optimize  the  parameters  and 
+adjust  the  coupling  system  components  more  precisely 
+with  less  misalignment  errors.  Coupling  of  laser  diode 
+output into optical fiber can be achieved either directly in 
+what is known as butt or direct coupling or using coupling 
+optical systems such as lenses or fiber tapers [1]. A simple 
+butt-joint method gives poor coupling efficiency, typically 
+of the order of 10% because of mismatch of the laser and 
+fiber fields [2]. In this article coupling system from laser 
+diode  to  optical  fiber  using  single  focusing  lens  is 
+established. Factors which might affect the efficiency are 
+analyzed by theoretical study and simulation confirmation. 
+
+ 
+are detailed [1]. 
+ 
+2. THEORETICAL BASIS 
+ 
+A. Coupling theory 
+
+According to mode coupling theory, the coupling 
+from  laser  diode  to  optical  fiber  is  the  mode  matching 
+between  them.  The  direct  coupling  is  found  to  be 
+inefficient  (5-20%)  due  to  the  mismatching  between  the 
+laser diode and the fiber mode field [1]. 
+ 
+
+ 
+(1) 
+This is the coupling efficiency between Gaussian 
+elliptical beam and a monomode fiber of spot size Wf [2]. 
+For  a  circular  beam  Wox=Woyand  Rx  (z)  =  Ry  (z)  it  is 
+follows that  
+ 
+
+ 
+
+ 
+
+This is the coupling efficiency between Gaussian 
+elliptical beam and a monomode fiber of spot size Wf [2]. 
+For a circular beam Wx=Wyand Rx (z) = Ry (z) it is follows 
+that  
+
+Where  w(z)  and  wf  is  the  spot  size of the  beam 
+and  fiber  respectively  ,k  is  the  wavenumber  Rx(z)  and 
+Ry(z)  are  the  curvature  of  the  wavefronts  of  diffracted 
+beam with respect to x and y direction as a function of z 
+(separation from the laser) 
+
+ 
+
+2286
+
+                                        VOL. 9, NO. 11, NOVEMBER 2014                                                                                                              ISSN 1819-6608            
+
+ARPN Journal of Engineering and Applied Sciences 
+
+ 
+
+©2006-2014 Asian Research Publishing Network (ARPN). All rights reserved. 
+
+www.arpnjournals.com 
+
+ 
+
+ 
+B- Factors analysis 
+
+There  are  several  factors  that  might  affect  the 
+coupling efficiency. By analyzing them and work out the 
+tolerance range of l dB loss, the efficiency C is supposed 
+to be evaluated from the in equation below [1]: 
+ 
+
+ 
+We can get the C as below: C 
+ 
+(1) Misalignment tolerance 
+
+ 
+
+ 95 %. 
+
+The  process  of  establishing  coupling  system  is 
+associated  with  three  kinds  of  misalignment  regarding 
+axial, lateral and angular misalignment. 
+ 
+(a) Axial misalignment 
+
+As  shown  in Figure-1,  the  axial  misalignment  S 
+indicates  the  distance  between  the  beam  waist  and  the 
+fiber tip. 
+ 
+
+ 
+
+ 
+
+Figure-1. Axial misalignment. 
+
+ 
+
+When  the  axial  misalignment  is  considered,  the 
+
+coupling loss is given by: 
+ 
+
+ 
+
+ 
+We  can  infer  from  Equation  (4)  that  coupling 
+efficiency 
+influenced  by  axial 
+misalignment.  Nevertheless,  large  axial  misalignment 
+leads  to  oversize  beam  spot,  which  might  bring  in 
+additional coupling loss [1]. 
+
+is  not  markedly 
+
+Where: L is the axial misalignment of the beam 
+
+waist and W is the spot size of light beam. 
+ 
+(b) Lateral misalignment 
+
+Figure-2  shows  that  the  lateral  misalignment  is 
+the displacement that light spot from the fiber core at the 
+perpendicular facet of the fiber tip [1].  
+ 
+
+ 
+
+Figure-2. Lateral misalignment. 
+
+ 
+
+The coupling loss caused by lateral misalignment 
+
+is given by: 
+ 
+
+ 
+
+ 
+Where: xL is the misalignment of the single-mode fiber. 
+
+It can be indicated from Equation (5) the coupling 
+
+efficiency is very sensitive to lateral misalignment.  
+ 
+(c) Angular misalignment 
+
+As shown in Figure-3, the angular misalignment 
+Θ is the angle from the beam axis and the fiber axis. This 
+displacement leads to the increasing of incident angle and 
+causes coupling loss due to the mismatching of NA [1]. 
+ 
+
+ 
+
+ 
+
+Figure-3. Angular misalignment. 
+
+ 
+
+loss 
+
+caused 
+
+by 
+
+angular 
+
+The 
+
+coupling 
+misalignment is given by: 
+ 
+
+ 
+
+ 
+Where:  Θ  is  the  angular  misalignment  and  λ  is  the  laser 
+diode emission wavelength. 
+
+With some calculation it can be inferred that the 
+coupling  efficiency  is  also  very  sensitive  to  angular 
+displacement. 
+ 
+(2) Thermal effect  
+
+Frequently,  optical  system  must  perform  over  a 
+wide temperature range. Due to the thermal expansion and 
+the change of the index of refraction of the lens material 
+with  temperature,  the  performance  of  the  system  is 
+affected.  This  is  especially  pronounced  in  the  infrared 
+region, where most materials suffer from a high dn/dt, the 
+change  of  index  with  temperature.  To  maintain  an 
+acceptable image quality, in many cases refocusing will be 
+necessary.  This  can  be  accomplished  mechanically  or 
+optically.  Specially,  the  mechanical  adjustment  can  be 
+done manually or by other means, such as feedback servo 
+systems  and  others.  Optically,  the  compensation  can  be 
+achieved  by  selecting  suitable  optical  materials  and 
+element powers [3, 5]. 
+
+The changing parameters of a lens in housing are 
+
+the following [3, 5]: 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+2287
+
+ 
+
+ 
+
+                                        VOL. 9, NO. 11, NOVEMBER 2014                                                                                                              ISSN 1819-6608            
+
+ARPN Journal of Engineering and Applied Sciences 
+
+ 
+
+©2006-2014 Asian Research Publishing Network (ARPN). All rights reserved. 
+
+www.arpnjournals.com 
+
+Table-1. Lens and housing parameters change with 
+
+temperature. 
+
+ 
+
+ 
+
+
+
+f
+
+2
+
+f
+
+
+
+
+
+ 
+
+where: 
+
+H
+
+i
+
+
+
+ 
+
+ 
+Where:  T  is  the  change  in  temperature,  H  is  the 
+coefficient  of  linear  expansion  for  housing,  L  is  the 
+coefficient  of  linear  expansion  for  lens  and  dn/dT  is  the 
+change in refractive index with temperature. 
+ 
+2.1. Defocus with change in temperature  
+
+To  simplify  the  procedure,  thin  elements  are 
+assumed.  For  an  objective  consisting  of  J  thin  elements 
+mounted in housing, the focal shift is [4, 5]:  
+ 
+
+j
+
+
+
+j
+
+
+
+1
+
+H
+i
+fi
+
+
+
+
+
+
+
+
+
+
+H
+
+f
+
+ 
+
+t
+
+
+
+
+
+        (7) 
+
+dN
+i
+
+N
+
+i
+
+dT
+/
+
+1
+
+
+
+iL
+
+: 
+
+is 
+
+thermal  glass 
+
+dT
+
+constant,  f  is focal length of system (assumed to be the 
+if  is the focal length of element i, 
+length of the housing), 
+iL   is  the 
+dN i /
+thermal expansion  coefficient of element I and  is the 
+thermal expansion coefficient of housing.  
+
+  is  the  index  change  in  element  i, 
+
+The  defocusing  distance  f  is  the  separation  of 
+the  lens  focus  from  the  detector.  This  is  depicted  in 
+Figure-4,  where  a  temperature  increase  is  assumed.  It  is 
+indicated  that the  focal  length  actually decreases  with  an 
+increase in temperature; while the housing expands focus 
+from the detector position is [4-6]. 
+ 
+
+f
+f
+
+
+
+Tt
+
+H
+
+
+ 
+
+                (8) 
+
+ 
+where, f  is the change in the focal length for single thin 
+lens. 
+ 
+
+ 
+
+ 
+
+Figure-4. Focus error parameters. 
+
+ 
+(3) Field of view effect  
+
+Field of view (FOV) is one of the specifications 
+for  an  optical  system.  It  is  the  angular  measure  of  the 
+volume of space within which the system can respond to 
+the presence of a target, and it is determined by the field 
+stop. FOV is not related to the size of the AS or the EP; it 
+depends on the linear dimension (dƒ) of the field stop and 
+on  the  effective  focal  length  f  of  the  imager  from  the 
+objective to the detector. If FOV is a small angle, [7]: 
+ 
+
+FOV
+
+
+
+d
+
+f /
+
+f
+
+ 
+
+          (9) 
+
+ 
+3. RESULTS AND DISCUSSIONS 
+ 
+A .Simulation and experiment 
+
+In order to confirm the impacts of the mentioned 
+factors  that  might  have  an  influence  on  the  coupling 
+efficiency, a system composed of laser diode, double lens 
+and  optical  fiber  is  employed  in  this  research.  The  laser 
+beam spot diameter is 3mm with zero divergence angles, 
+and the wavelength λ is 1.55µm. Numerical aperture of the 
+fiber  is  0.14;  the  core  and  cladding  diameter  are  8.3µm 
+and 125µm. The focal length of the double lens is 20mm. 
+During  the  alignment  of  the  laser  beam  transmitting,  the 
+system continuously measures the output power at the free 
+end  of  the  fiber  to  determine  the  coupling  efficiency. 
+Meanwhile we use the optics simulation software ZEMAX 
+to  simulate  the  coupling  system.  According  to  the 
+parameters mentioned above, we set the ZEMAX as below 
+in Table-2: 
+ 
+
+Table-2. System parameter. 
+
+Surf: Type  
+(Unit : mm) 
+
+OBJ 
+STO 
+2* 
+3* 
+4* 
+IMA 
+
+Standard 
+Standard 
+Standard 
+Standard 
+Standard 
+Standard 
+
+Radius 
+
+Infinity 
+Infinity 
+7.009 
+-6.678 
+44.363 
+Infinity 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+glass 
+
+Thickness 
+ 
+Infinity 
+5.00 
+ 
+V  N-BAK4 
+3.524 
+V 
+3.810 
+N-SF10 
+ 
+13.632 
+ 
+
+- 
+
+ 
+ 
+
+Semi-
+
+diameter 
+ 
+0.000 
+2.000 
+ 
+U 
+6.250 
+U 
+6.250 
+U 
+6.250 
+0.002 
+U 
+
+Conic 
+
+0.00 
+0.00 
+0.00 
+0.00 
+-1.00 
+0.00 
+
+ 
+ 
+ 
+ 
+V 
+ 
+
+ 
+
+2288
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                        VOL. 9, NO. 11, NOVEMBER 2014                                                                                                              ISSN 1819-6608            
+
+ARPN Journal of Engineering and Applied Sciences 
+
+ 
+
+©2006-2014 Asian Research Publishing Network (ARPN). All rights reserved. 
+
+www.arpnjournals.com 
+
+ 
+
+Furthermore the X, Y, Z position and Tilt in the 
+settings could be designed to simulate the axial, lateral and 
+angular  displacement.  In  view  of  the  axial  displacement, 
+the simulation and experiment result is shown in Figure-5. 
+ 
+
+misalignment  tolerance  0.5µm  for  -0.21352  dB  coupling 
+loss. 
+
+Likewise,  we  have 
+
+angular 
+misalignment.  Model  parameters  are  set  as  follow:  light 
+core diameter is 8.3µm and the NA is 5.5. Simulation and 
+experiment result is shown in Figure-7. 
+ 
+
+studied 
+
+the 
+
+Figure-5. Effect of axial misalignment. 
+
+ 
+
+We  see  that  in  simulation  the  axial  offset  has 
+larger  tolerance  while  the  experimental  result  is  more 
+restricted.  Some  other  loss  during  coupling  like  light 
+reflecting in real experiment could explain this. The graph 
+also  shows  that  the  coupling  efficiency  is  not  very 
+sensitive 
+the 
+misalignment  arrives  310µm,  the  coupling  efficiency 
+drops  to 50.61%,  and  the  misalignment  tolerance  100µm 
+for 
+lateral 
+displacement  is  taken  into  consideration.  Simulation  and 
+experiment result is shown in Figure-6: 
+ 
+
+the  axial  displacement  and  when 
+
+loss.  Likewise, 
+
+-0.241  dB 
+
+coupling 
+
+to 
+
+ 
+
+ 
+
+Figure-7. Effect of angular misalignment. 
+
+ 
+
+The experiment data shows a severe decline since 
+in  the  practical  experiment  angular  misalignment  would 
+bring  in  additional  lateral  offset.  In  Fig.7  the  coupling 
+efficiency  declines  to  51.1%  when  the  angular  offset 
+arrives  2.2°  and  misalignment  tolerance  is  0.1°  for-
+0.2029dB coupling loss. 
+
+Likewise,  we  have  studied  the  lateral  and  the 
+angular misalignment. The effect of combination of lateral 
+and angular misalignment on the coupling efficiency. The 
+result shows  this  as  the lateral  misalignment and angular 
+misalignment increased, the coupling efficiency decreased 
+for  all  value  of  tilt  (0.2-0.3o)  also  it  is  clear  that  as  the 
+value  increased  the  coupling  efficiency  will  decreased. 
+The  effect  of  combination  of 
+lateral  and  angular 
+misalignment on the coupling efficiency is larger than the 
+effect  of 
+lateral  misalignment  or  angular 
+misalignment as show in Figure-8. 
+
+indicial 
+
+ 
+
+Figure-6. Effect of lateral misalignment. 
+
+ 
+
+The  result  is  similar  and  both  indicate  that  the 
+lateral  misalignment  has  great 
+impact  on  coupling 
+efficiency.  When  the  misalignment  arrives  8µm,  the 
+coupling  efficiency  drops 
+the 
+
+to  51.2772%,  and 
+
+ 
+
+2289
+
+ 
+
+ 
+
+                                        VOL. 9, NO. 11, NOVEMBER 2014                                                                                                              ISSN 1819-6608            
+
+ARPN Journal of Engineering and Applied Sciences 
+
+ 
+
+©2006-2014 Asian Research Publishing Network (ARPN). All rights reserved. 
+
+www.arpnjournals.com 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure-8. Effect of lateral and angular misalignment. 
+
+ 
+
+ 
+
+The  effect  of  environment  temperature  in  the 
+range (-20-70oC) on the performance of the lens coupling 
+design was also studied .The perfect system with all losses 
+(i.e. tilt = lateral = axial = 0) were selected, then a change 
+in  the  temperature  of  the  environment  was  done.  From 
+Figure-9, it is shown that as the environment temperature 
+increased, the coupling efficiency decreased, this behavior 
+belong to the variation of optical design editor parameter 
+(radius of curvature, thickness, focal length) of the optical 
+elements (lenses) in the design so all the result change and 
+quality analysis parameter values changed also. 
+ 
+
+Figure-9. Effect of temperature. 
+
+ 
+
+When 
+
+the  temperature  arrived 
+
+to  70oC 
+
+the 
+
+coupling efficiency decline to 93.7%. 
+
+Finally,  the  effect  of  field  of  view  within  the 
+range  (0o-9o)  on  the  power  coupling  efficiency  was 
+investigated. Figure-10 show the effect of field of view on 
+power coupling and we can noted that coupling efficiency 
+decreasing exponential when the field of view increasing. 
+ 
+
+Figure-10. Effect of field of view. 
+
+ 
+B. DISCUSSIONS  
+
+According to the analysis above, it is found that a 
+coupled  lens  improves  the  coupling  efficiency  and  it  is 
+more stable than a non-lensed fiber. A LD-SMF coupling 
+efficiency of 95% is achieved with for N-BAK4, N-SF10 
+microlens  of  radius  of  curvature  7.00900,  -6.67800  mm. 
+The  lateral  offset  tolerance  is  more  important  in  laser 
+diode  module  fabrication  than  the  angular  misalignment 
+tolerance.  A  degradation  in  coupling  efficiency  as  the 
+temperature  increased  (243-343K),  the  dependence  of 
+coupling efficiency on wavelength at the optimal working 
+parameters is depicted. 
+
+The  results  shown  that  the  lateral  misalignment 
+tolerance  is  more  important  in  laser  diode  module 
+fabrication  than  the  angular  misalignment  tolerance. 
+However,  it  is  important  to  note  that  the  angular 
+misalignment  tolerances  cause  no  problem  in  laser  diode 
+fabrication  and  construction  processes,  because 
+the 
+angular misalignment of the light beam can compensate by 
+adjusting the other lens during the assembling process. 
+
+Further, the influence of environment temperature 
+over  the  range  (243-343K)  on  coupling  efficiency  and 
+other  contribution  factors  which  affect  the  coupling  are 
+analyzed  and  their  tolerance  has  been  worked  out.  The 
+coupling  efficiency  would  escalate  as  the  temperature 
+deceases in a certain range. 
+
+Finally  the  effect  of  varying  the  field  of  view 
+angle  (0-9o)  on  the  coupling  efficiency  also  investigated. 
+Results  illustrate  that  increasing  the  field  of  view  angle 
+will decrease the coupling efficiency. 
+ 
+4. CONCLUSIONS 
+
+In this paper, the coupling optics in case of laser 
+diode  into  optical  fiber  via  an  achromatic  doublet 
+microlens  simulated  while  related  experiments  are  also 
+done to optimize the parameter of the components in the 
+system.  Possible  factors  which  cause  loss  and  affect  the 
+coupling  efficiency  are  analyzed  and  confirmed  by 
+experiments.  According 
+the 
+misalignment  error  proves  to  be  the  predominant  factor 
+
+the  analysis  result, 
+
+to 
+
+ 
+
+2290
+
+ 
+
+                                        VOL. 9, NO. 11, NOVEMBER 2014                                                                                                              ISSN 1819-6608            
+
+ARPN Journal of Engineering and Applied Sciences 
+
+ 
+
+©2006-2014 Asian Research Publishing Network (ARPN). All rights reserved. 
+
+www.arpnjournals.com 
+
+to 
+
+sensitive 
+
+is  more 
+
+ 
+that  affects  the  coupling  efficiency,  indicating  that  the 
+coupling  scheme  with  precise  adjusting  accuracy  and 
+relaxed  misalignment  tolerances  should  be  employed  in 
+the coupling system.  From the result one conclude that the 
+coupling  efficiency 
+lateral 
+misalignment more sensitive to lateral misalignment than 
+axial misalignment and both vanishes C=0 at 22 µm and 
+122µ  m, 
+respectively.  The  effect  of  accumulate 
+misalignment  (lateral  and  angular  misalignment)  reduce 
+the  coupling  efficiency  and  increasing  the  sensitivity  of 
+the coupling design. The coupling efficiency is affected by 
+increase tilt value for each lateral misalignment value. The 
+study of environment temperature on the coupling shows 
+that this system is athermalized (very low sensitive to the 
+temperature variation). This was due to the best choice is 
+happened  because  the  right  choice  of  optical  thermal 
+material which has of low thermal expansion coefficient in 
+our design. So this Therefore the proposed design was is 
+very  good  for  athermaliztion  application  study 
+.The 
+coupling  system  was  very  sensitive  to  the  field  of  view 
+increment The chromatic focal shift is (0.45 λ) which this 
+is indicate that this design is achromatic and athermalized 
+system. 
+ 
+REFERENCES 
+ 
+[1]  K.  He,  J.  Shi,  X.  Yuan  and  X.  Cong.  2012. 
+Instrumentation  and Control  Technology  (ISICT).  8th 
+IEEE International Conference. 11-13 July, pp. 84-87. 
+ 
+
+[2]  M. S. Ozyazici. 2004. Optical Applicata. 34: 185. 
+
+[3]  Ph. J. Rogers, SPIE. 38: 69. 
+
+ 
+
+ 
+
+[4]  J.M.  Riedl.  2001.  Optical  Design  Fundamentals  for 
+Infrared  Systems.  2nd  Edition,  SPIE,  International 
+Society 
+for  Optical  Engineering,  Bellingham, 
+Washington, USA. pp. 131-133. 
+ 
+
+[5]  A. H. Al-Hamdani. 2009. Journal of Materials Science 
+
+and Engineering. 3: 67. 
+ 
+
+[6]  A. H. Al-Hamdani, Abdul ala Abass and Mohammed 
+A. 2009. Alsatar, Eng. Technology Journal. 27: 1872. 
+ 
+
+[7]  E.R.  Fischer  and  B.  Tadic-Galeb.  2000.  Optical 
+
+System Design. McGraw-Hill Inc. 
+
+View publication stats
+View publication stats
+
+ 
+
+2291
+
+
